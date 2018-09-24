@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\bin\Debug\PAED-2.exe.config
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\bin\Debug\PAED-2.exe
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\bin\Debug\PAED-2.pdb
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\obj\Debug\PAED-2.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\obj\Debug\PAED-2.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\obj\Debug\PAED-2.exe
+C:\Users\boyhu\source\repos\PAED-2\PAED-2\obj\Debug\PAED-2.pdb

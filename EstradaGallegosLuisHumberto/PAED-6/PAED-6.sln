@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAED-6", "PAED-6\PAED-6.csproj", "{545BBE53-9FB5-4287-BDAB-1CA243F3473B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545BBE53-9FB5-4287-BDAB-1CA243F3473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545BBE53-9FB5-4287-BDAB-1CA243F3473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545BBE53-9FB5-4287-BDAB-1CA243F3473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545BBE53-9FB5-4287-BDAB-1CA243F3473B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B2F09A-D8DD-4313-A3F7-74B00442851E}
+	EndGlobalSection
+EndGlobal
